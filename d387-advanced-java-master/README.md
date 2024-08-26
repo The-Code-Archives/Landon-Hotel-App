@@ -1,9 +1,10 @@
 These are the steps outlined to run this application.
 
-1. Open the terminal inside of IntelliJ and type in "mvn clean install" on the root project directory which is called "d387-advanced-java-master."
-2. Run "mvn spring-boot:run" using this same terminal.
-3. Open a new terminal using IntelliJ and change the directory to enter the UI folder. Run "npm install" to install dependencies.
-4. Run "ng build" in the UI folder to build it and then run "ng serve" to run it. 
+1. Open this project in IntelliJ Ultimate.  
+2. Open the terminal inside of IntelliJ and type in "mvn clean install" on the root project directory which is called "d387-advanced-java-master."
+3. Run "mvn spring-boot:run" using this same terminal.
+4. Open a new terminal using IntelliJ and change the directory to enter the UI folder. Run "npm install" to install dependencies.
+5. Run "ng build" in the UI folder to build it and then run "ng serve" to run it. 
 
 localhost:4200 is the default one for the front end and localhost:8080 is the backend.
 
